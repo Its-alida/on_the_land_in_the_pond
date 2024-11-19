@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Almita/Scenes/MainMenu.unity
+    guid: 020c14b5383d1b8449a2e293db316b1b
+  - enabled: 1
+    path: Assets/Almita/Scenes/Level1.unity
+    guid: 8fae74bd4d4557c4fb453a44c1b5d9f7
+  - enabled: 1
+    path: Assets/Almita/Scenes/Level2.unity
+    guid: 7dd945759e3fce447bbdddc590bda5cf
+  - enabled: 1
+    path: Assets/Almita/Scenes/Level3.unity
+    guid: 5432a14ee2353d94fb9deef7f3794f7e
+  - enabled: 1
+    path: Assets/Almita/Scenes/Level4.unity
+    guid: 380235940bc3fe54ea9ea072e1d10ea4
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: cf8468ad1e70d9c41a8f3ffe61baaeec, type: 2}
