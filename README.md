@@ -16,34 +16,34 @@
 ## Visual Walkthrough
 
 ### 1.1 Unity Project for “On The Land In The Pond” Game
-![Unity Project](path/to/image1.png)
+![Unity Project](Assets/Images/1.png)
 
 ### 1.2 Main Components in “On The Land In The Pond” Game: Player, Land & Pond
-![Main Components](Assets/2.png)
+![Main Components](Assets/Images/2.png)
 
 ### 1.3 Landing Page of “On The Land In The Pond” Game
-![Landing Page](Assets/3.png)
+![Landing Page](Assets/Images/3.png)
 
 ### 1.4 Using Ray Interaction to Trigger Buttons in “On The Land In The Pond” Game
-![Ray Interaction](Assets/4.png)
+![Ray Interaction](Assets/Images/4.png)
 
 ### 1.5 Language Dropdown in “On The Land In The Pond” Game
-![Language Dropdown](Assets/5.png)
+![Language Dropdown](Assets/Images/5.png)
 
 ### 1.6 Level 1 Timer & Scoreboard of “On The Land In The Pond” Game
-![Timer and Scoreboard](Assets/6.png)
+![Timer and Scoreboard](Assets/Images/6.png)
 
 ### 1.7 Image & Audio Command for “Land”
-![Command for Land](Assets/7.png)
+![Command for Land](Assets/Images/7.png)
 
 ### 1.8 Image & Audio Command for “Pond”
-![Command for Pond](Assets/8.png)
+![Command for Pond](Assets/Images/8.png)
 
 ### 1.9 Splashing Animation for Pond Jump
-![Pond Jump Animation](Assets/9.png)
+![Pond Jump Animation](Assets/Images/9.png)
 
 ### 1.10 Winner Screen After Completing Level 1 in “On The Land In The Pond” Game
-![Winner Screen](Assets/10.png)
+![Winner Screen](Assets/Images/10.png)
 
 ---
 
